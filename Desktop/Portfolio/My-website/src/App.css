@@ -1,0 +1,10 @@
+@import url(//cdn.rawgit.com/rtaibah/dubai-font-cdn/master/dubai-font.css);
+*{
+ font-family: 'Dubai-Bold', sans-serif;
+}
+.bg-1F242C{
+  background:#1F242C;
+}
+.text-1F242C{
+  color:#1F242C
+}
